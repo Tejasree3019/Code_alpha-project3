@@ -73,7 +73,7 @@ I have selected r2 score as the primary evaluation metric for the Sales Predicti
 
 ## Conclusion
 
-In the dynamic landscape of product and service-based businesses, the ability to forecast sales is paramount. This project, undertaken during the data science internship at Oasis Infobyte, delved into the realm of sales prediction using machine learning with Python. Let's encapsulate the key findings:
+In the dynamic landscape of product and service-based businesses, the ability to forecast sales is paramount. This project, undertaken during the data science internship at Code Alpha, delved into the realm of sales prediction using machine learning with Python. Let's encapsulate the key findings:
 
 **Insights and Observations:**
 
